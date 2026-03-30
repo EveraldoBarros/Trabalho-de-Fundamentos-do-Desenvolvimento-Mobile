@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\evera\\.gradle\\daemon\\8.1.1\\com.taskflow.todoapp-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\evera\\.gradle\\daemon\\8.1.1\\com.taskflow.todoapp-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\evera\\.gradle\\daemon\\8.1.1\\com.taskflow.todoapp-merged_res-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\evera\\.gradle\\daemon\\8.1.1\\com.taskflow.todoapp-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\evera\\.gradle\\daemon\\8.1.1\\com.taskflow.todoapp-merged_res-37:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\evera\\.gradle\\daemon\\8.1.1\\com.taskflow.todoapp-main-39:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\evera\\.gradle\\daemon\\8.1.1\\com.taskflow.todoapp-merged_res-37:\\layout_activity_task.xml.flat",
+        "source": "C:\\Users\\evera\\.gradle\\daemon\\8.1.1\\com.taskflow.todoapp-main-39:\\layout\\activity_task.xml"
+    },
+    {
+        "merged": "com.taskflow.todoapp-merged_res-37:/layout_activity_task.xml.flat",
+        "source": "com.taskflow.todoapp-main-39:/layout/activity_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\evera\\.gradle\\daemon\\8.1.1\\com.taskflow.todoapp-merged_res-37:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\evera\\.gradle\\daemon\\8.1.1\\com.taskflow.todoapp-main-39:\\layout\\item_task.xml"
+    }
+]

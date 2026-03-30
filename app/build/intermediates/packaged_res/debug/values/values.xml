@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">ToDoFirebaseApp</string>
+    <string name="button_back">Voltar</string>
+    <string name="button_delete">Excluir</string>
+    <string name="button_edit">Editar</string>
+    <string name="button_login">Login</string>
+    <string name="button_logout">Sair</string>
+    <string name="button_register">Cadastrar</string>
+    <string name="button_save">Salvar</string>
+    <string name="empty_tasks">Nenhuma tarefa encontrada</string>
+    <string name="gcm_defaultSenderId" translatable="false">607883093</string>
+    <string name="google_api_key" translatable="false">AIzaSyDcjuNTGin6n375-dyFALdW8ZTgksTbjIc</string>
+    <string name="google_app_id" translatable="false">1:607883093:android:2ff22f4ff0fbcafaf7e9dc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDcjuNTGin6n375-dyFALdW8ZTgksTbjIc</string>
+    <string name="google_storage_bucket" translatable="false">todoapp-bf35e.firebasestorage.app</string>
+    <string name="hint_description">Descrição</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="hint_title">Título</string>
+    <string name="login_title">Entrar</string>
+    <string name="project_id" translatable="false">todoapp-bf35e</string>
+    <string name="register_title">Criar Conta</string>
+    <string name="task_list_title">Minhas Tarefas</string>
+    <string name="task_new_title">Nova Tarefa</string>
+    <style name="Theme.ToDoFirebaseApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">@color/purple_700</item>
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+</resources>

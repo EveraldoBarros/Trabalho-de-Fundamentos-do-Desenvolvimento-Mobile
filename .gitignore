@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Kotlin/Java
+**/*.class
+**/*.jar
+
+# Generated files
+app/build/
+app/.gradle/
+
+# Ignore generated Android build artifacts
+**/build/
+**/intermediates/
+**/generated/
+**/outputs/
+**/tmp/
+
+# Firebase local config
+google-services.json
+app/google-services.json
